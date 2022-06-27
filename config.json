@@ -1,7 +1,7 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Photos",
+  "title": "一瞥",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "cards",
