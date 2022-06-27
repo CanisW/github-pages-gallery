@@ -9,5 +9,7 @@
   "usage-stats": false,
   "home-album-name": "首页",
   "embed-exif": true,
-  "locale": "zh"
+  "locale": "zh-cn",
+  "sort-albums-direction": "desc",
+  "sort-media-direction": "desc"
 }
