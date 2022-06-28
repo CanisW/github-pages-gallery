@@ -11,5 +11,6 @@
   "embed-exif": true,
   "locale": "zh-cn",
   "sort-albums-direction": "desc",
-  "sort-media-direction": "desc"
+  "sort-media-direction": "desc",
+  "large-size": 1600,
 }
