@@ -4,7 +4,7 @@
   "title": "一瞥",
   "download-photos": "copy",
   "cleanup": true,
-  "theme": "cards",
+  "theme": "flow",
   "css": "./custom.css",
   "usage-stats": false,
   "home-album-name": "首页",
